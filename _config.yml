@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: loney的博客 | BY Blog
+title: Loney's Blog
+SEOTitle: loney的博客 | BY loney
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, loney的博客, renwenlong, loney"
+keyword: "BY, BY Loney, loney的博客, renwenlong, loney"
 url: "http://loneyrwl.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/loneyrwl/loneyrwl.github.io.git" # you code repository
